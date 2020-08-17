@@ -1,0 +1,18 @@
+body{
+    background-color: forestgreen;
+}
+
+h1, .parkSearch {
+    text-align: center;
+    border: solid;
+}
+
+ul, ul.ba, ul > li {
+    list-style-type: none;
+}
+
+li, li img {    
+    max-width: 50%;
+    height: auto;    
+
+}
