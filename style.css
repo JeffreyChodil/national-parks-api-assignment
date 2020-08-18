@@ -1,14 +1,15 @@
 body{
-    background-color: forestgreen;
+    background-color: forestgreen;    
 }
 
-h1, .parkSearch {
+h1, .parkSearch, li {
     text-align: center;
     border: solid;
+    list-style: none;
 }
-
-ul, ul.ba, ul > li {
-    list-style-type: none;
+ul {
+    align-content: center;
+    margin: auto;
 }
 
 li, li img {    
